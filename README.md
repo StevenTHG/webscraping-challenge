@@ -1,1 +1,3 @@
-# webscraping-challenge
+# Webscraping Challenge
+
+Included in this repo is a "MarsWebscraping" folder that contains two Jupyter Notebooks along with an outputted CSV file. The purpose of this challenge was to use the Splinter and BeautifulSoup packages to webscrape and analyze data from a given URL. This data includes news article titles, their preview texts, and values from a table that were exported to a CSV file and used to analyze conditions on Mars. 
